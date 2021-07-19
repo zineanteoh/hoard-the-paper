@@ -8,6 +8,6 @@
 - [WASD] or Arrow Keys to move character
 - J to pick up toilet paper from shelf
 - K to pay cashier
-- L to drop toilet paper at the car
+- L to place toilet paper in the car
 
 ![Demo of gameplay](https://i.imgur.com/Co58k28.gif)
